@@ -1,12 +1,3 @@
-# 👋 Hi, I'm Anshul Sharma
-
-🚀 Flutter Developer | Cross-Platform Mobile App Developer
-
-I am a passionate **Flutter developer** who focuses on building modern, scalable and high-performance **cross-platform mobile applications** for Android and iOS.
-I enjoy creating clean UI, integrating APIs and developing smooth mobile experiences using Flutter.
-
----
-
 <h1 align="center">Hi 👋, I'm Anshul Sharma</h1>
 <h3 align="center">🚀 Flutter Developer | Cross-Platform Mobile App Developer</h3>
 
