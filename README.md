@@ -65,11 +65,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anshulsharma2003&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anshulsharma2003&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=anshulsharma2003&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulsharma2003&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -88,7 +88,6 @@
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/anshulsharma2003/anshulsharma2003/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ⭐ *Building modern mobile apps with Flutter and improving every day.*
